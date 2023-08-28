@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORMS</title>
+</head>
+<body>
+
+    <!-- html forms -->
+    <form action="data.php"  target="_blank" method="post" autocomplete="on">
+        <label for="first name">first Name</label>
+        <input type="" id="first name" name="first name" required>
+        <label for="last Name"></label>
+        <input type="text" id="last Name" name="last name" required>
+        <label for="genderMale">Male</label>
+        <input type="Radio" value="male" id="genderMale" name="gender" required>
+        <label for="genderfemale">Female</label>
+        <input type="radio" value="female" id="genderfemale" name="gender" required>
+        <label for="graduate">Are you a graduate?</label>
+        <input type="checkbox" name="graduate" id="graduate" value="graduate">
+
+        <input type="button" value="submit">
+    </form>
+    <!-- Note -->
+    <P>
+        Notes on GET:
+        Appends the form data to the url, in name/value pairs
+        Never use GET to send sensitive data (the submitted form data is visisble in the url)
+        The length of a url is limited (2048 characters)
+         useful for form submissions where a user wants to bookmark the result
+         GET is good for non-secure data, like query strings in google
+
+         Notes on POST:
+         Appends the form data inside the body of the HTTP request (the submitted form data is not shown in thr url)
+         POST has no size limitations, ans can be used to send large amounts of data.
+         form submissions with POST cannot be bookmarked
+         TIP: ALways use POST if the form data contains sensitive or personal information!
+    </P>
+</body>
+</html>

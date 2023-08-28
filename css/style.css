@@ -1,0 +1,135 @@
+.icons{
+    font-size: 60px;
+    color:blueviolet;
+    margin-bottom: 10px;
+}
+.txt1{
+    font-weight: bold;
+}
+.vidcontainer{
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+.cinbgimg{
+        /* height: 900px; */
+    background-image: url("https://img.freepik.com/free-vector/watercolor-blue-background_23-2149317519.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+}
+.conbgtxt{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: black;
+}
+
+.txt2{
+    color: white;
+    margin-left: 30px;
+}
+.txt4{
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.txtc{
+    font-size: 40px;
+    color: lightgrey;
+    font-style: italic;
+}
+.txtcb{
+    font-size: 18px;
+    font-weight: 400;
+}
+.txtcc{
+    color: gray;
+}
+.btncc{
+    color: orange;
+    text-decoration: none;
+    font-size: 18px;
+}
+.boximg{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpUksr9p_WdoTRCGkp67MsS4wUh_CmAu-KQ&usqp=CAU");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.the{
+    background-color: white;
+    height: 450px;
+    /* width: 300px; */
+    /* margin-left: 150px; */
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.the1{
+    font-size: 80px;
+    font-weight: 30px;
+}
+.the0{
+    font-style: italic;
+    font-weight: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.the2{
+    color: lightgrey;
+}
+.if{
+    background-color: orange;
+    /* margin-left: 50px; */
+    border-radius: 10px;
+    height: 450px;
+    /* width: 300px; */
+    padding: 10px;
+    margin-top: 10px;
+}
+.tet{
+   font-weight: bolder;
+   color: black;
+   /* margin-bottom: 30px; */
+}
+.tet1{
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+.iconz{
+    font-size: 60px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+.the3{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.the5{
+    background-color: white;
+    height: 450px;
+    /* width: 300px; */
+    /* margin-left: 50px; */
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.txtcar{
+    padding: 100px;
+    color: white;
+}
+.iconr{
+ font-size: 70px;
+color: lightgrey;
+}
+.conbe{
+    background-color: lightgray;
+}
+.rod{
+   color: black; 
+}
+
